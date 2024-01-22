@@ -1,0 +1,3 @@
+-i https://pypi.org/simple
+rapidfuzz==3.6.1; python_version >= '3.8'
+thefuzz==0.20.0; python_version >= '3.7'
